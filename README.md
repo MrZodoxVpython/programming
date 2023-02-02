@@ -1,5 +1,3 @@
 # programming
 this repo is represented to all programing user.
-this area
-
-
+this area will be make a camp for language question or answered
