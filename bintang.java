@@ -1,4 +1,4 @@
-public class Bintang {
+public class bintang {
   public static void main(String[] args) {
     int jumlahBaris = 5;
     for (int i = 1; i <= jumlahBaris; i++) {
